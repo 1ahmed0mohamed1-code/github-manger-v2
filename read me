@@ -1,3 +1,8 @@
-run script 
-chmod +x ~/github-upload.sh
-~/github-upload.sh
+run github-upload
+run for terminal
+--------------------
+run github editer
+download python3
+
+run 
+python3 local file
